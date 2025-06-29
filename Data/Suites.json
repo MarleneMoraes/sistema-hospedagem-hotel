@@ -1,0 +1,26 @@
+[
+  {
+    "TipoSuite": "Standard",
+    "Capacidade": 2,
+    "ValorDiaria": 100.00,
+    "QuantidadeTotal": 5
+  },
+  {
+    "TipoSuite": "Luxo",
+    "Capacidade": 3,
+    "ValorDiaria": 250.00,
+    "QuantidadeTotal": 3
+  },
+  {
+    "TipoSuite": "Presidencial",
+    "Capacidade": 5,
+    "ValorDiaria": 500.00,
+    "QuantidadeTotal": 1
+  },
+  {
+    "TipoSuite": "Família",
+    "Capacidade": 4,
+    "ValorDiaria": 350.00,
+    "QuantidadeTotal": 2
+  }
+]
