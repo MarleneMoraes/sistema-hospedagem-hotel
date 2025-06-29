@@ -4,10 +4,12 @@ using DesafioProjetoHospedagem.Models;
 Console.OutputEncoding = Encoding.UTF8;
 
 // Cria os modelos de hóspedes e cadastra na lista de hóspedes
-List<Pessoa> hospedes = new List<Pessoa>();
+List<Hospede> hospedes = Hospede.ObterHospedesRegistrados();
 
-Pessoa p1 = new Pessoa(nome: "Hóspede 1");
-Pessoa p2 = new Pessoa(nome: "Hóspede 2");
+for(Hospede hospede : hospedes) {
+    
+}
+
 
 hospedes.Add(p1);
 hospedes.Add(p2);
